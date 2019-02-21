@@ -24,7 +24,8 @@ printf("%d is the largest",d);
 }
 else
 {
-printf("%d is the largest",c);
+printf("%d is the largest",p);
+}
 }
 getch();
 }
